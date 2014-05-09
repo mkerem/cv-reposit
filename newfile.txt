@@ -1,0 +1,12 @@
+Brainstorming in order to build over summer
+
+-Member log in page on site; accessible perhaps on the Contacts Page
+--Could create an additional members log in, but might be clunky
+
+-Simple first page to upload file
+--need to ask for tags: what field, interests, specialities, skills, etc.
+--make this a requirement?
+
+-browse files per speciality (as default) - these will be created prior
+
+*Ultimate point to allow alumni and members to "silently" help each other in the job arena
