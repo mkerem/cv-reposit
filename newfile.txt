@@ -6,7 +6,11 @@ Brainstorming in order to build over summer
 -Simple first page to upload file
 --need to ask for tags: what field, interests, specialities, skills, etc.
 --make this a requirement?
+--is this necessary? perhaps parse these words from the documents (don't think they can .pdf files though)
 
 -browse files per speciality (as default) - these will be created prior
+-this will likely be user-provided
 
-*Ultimate point to allow alumni and members to "silently" help each other in prof. arena
+* need option to re-submit
+* do people want to be able to browse other entries?
+* do we want two views? (prospective vs. staffed)
