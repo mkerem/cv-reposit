@@ -1,4 +1,4 @@
-Brainstorming in order to build over summer
+Brainstorming in order to build over summer:
 
 -Member log in page on site; accessible perhaps on the Contacts Page
 --Could create an additional members log in, but might be clunky
@@ -6,11 +6,15 @@ Brainstorming in order to build over summer
 -Simple first page to upload file
 --need to ask for tags: what field, interests, specialities, skills, etc.
 --make this a requirement?
---is this necessary? perhaps parse these words from the documents (don't think they can .pdf files though)
+--is this necessary? perhaps parse these words from the documents (don't think they can be .pdf files though)
 
--browse files per speciality (as default) - these will be created prior
--this will likely be user-provided
+-browse files per speciality (as default) - these to be created/generated prior
+-and will likely be user-provided
+-state graduation year/brother class
+-if no objective immediately clear, please state in textbox
 
 * need option to re-submit
 * do people want to be able to browse other entries?
 * do we want two views? (prospective vs. staffed)
+
+* possiblity to integrate with LI ability to print out paper or turn into PDF!
