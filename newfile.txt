@@ -18,3 +18,5 @@ Brainstorming in order to build over summer:
 * do we want two views? (prospective vs. staffed)
 
 * possiblity to integrate with LI ability to print out paper or turn into PDF!
+
+* or to make this simple (spend less time), just have them email to you. could work on site for other org...
