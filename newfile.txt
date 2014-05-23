@@ -4,6 +4,7 @@ Brainstorming in order to build over summer:
 --Could create an additional members log in, but might be clunky
 
 -Simple first page to upload file
+Figure out FORM GET, where is it being sent or is it server based
 --need to ask for tags: what field, interests, specialities, skills, etc.
 --make this a requirement?
 --is this necessary? perhaps parse these words from the documents (don't think they can be .pdf files though)
