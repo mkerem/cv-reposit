@@ -21,3 +21,13 @@ Figure out FORM GET, where is it being sent or is it server based
 * possiblity to integrate with LI ability to print out paper or turn into PDF!
 
 * or to make this simple (spend less time), just have them email to you. could work on site for other org...
+
+PERFECT! PDF parser, available on github @ http://www.pdfparser.org/
+--Load and parse objects and headers
+--Extract metadata (author, description, keywords, ...)
+--Extract text from ordered pages
+--Support for compressed pdf (and not)
+--Support of charset encoding (WinAnsi, MacRoman)
+PSR-0 compliant (autoloader)
+Compatible with Composer
+PSR-1 compliant (code styling)
