@@ -1,6 +1,6 @@
 Brainstorming in order to build over summer:
 
--Member log in page on site; accessible perhaps on the Contacts Page
+-Member log in page on site; accessible perhaps on the Contacts Page (separate page from currently existing Members Area?)
 --Could create an additional members log in, but might be clunky
 
 -Simple first page to upload file
@@ -19,6 +19,9 @@ Figure out FORM GET, where is it being sent or is it server based
 * do we want two views? (prospective vs. staffed)
 
 * possiblity to integrate with LI ability to print out paper or turn into PDF!
+* consider possibility to "billboard" for job postings, though people may prefer to just use Facebook for this
+* though it would be a good way to have a database for past internships/jobs, and this could feed into the
+Professional page via php
 
 * or to make this simple (spend less time), just have them email to you. could work on site for other org...
 
