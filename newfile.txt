@@ -39,3 +39,7 @@ PERFECT! PDF parser, available on github @ http://www.pdfparser.org/
 PSR-0 compliant (autoloader)
 Compatible with Composer
 PSR-1 compliant (code styling)
+
+People you need to work with: Fundraising chair, webmaster, president, alumni (goes last). after testing with 5 different resumes in order to make sure 
+there aren't problems, then once school starts, have people upload their resumes during chapter. then reach out to
+alumni to upload their own and let them know if this new initiative
