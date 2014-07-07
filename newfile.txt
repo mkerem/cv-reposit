@@ -30,6 +30,9 @@ Professional page via php
 
 * or to make this simple (spend less time), just have them email to you. could work on site for other org...
 
+Consider http://blueimp.github.io/jQuery-File-Upload/
+for them to upload files
+
 PERFECT! PDF parser, available on github @ http://www.pdfparser.org/
 --Load and parse objects and headers
 --Extract metadata (author, description, keywords, ...)
