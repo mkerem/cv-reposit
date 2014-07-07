@@ -14,12 +14,17 @@ Figure out FORM GET, where is it being sent or is it server based
 -state graduation year/brother class
 -if no objective immediately clear, please state in textbox
 
-* need option to re-submit
+* need option to re-submit and delete
+* also provide ability to confirm submission (look over file to determine if this is what you would like)
+* set as private/public (you can choose to have your resume in, but no one can look at it unless they specifically
+email you to take a look)
+* work with Fundraising person to work on Rodney's project in order to have companies look at their resumes
 * do people want to be able to browse other entries?
 * do we want two views? (prospective vs. staffed)
 
 * possiblity to integrate with LI ability to print out paper or turn into PDF!
 * consider possibility to "billboard" for job postings, though people may prefer to just use Facebook for this
+* In fact... Facebook API!!! Is there a way to use tag words that can get filtered into the board? like #job #jobposting #networking
 * though it would be a good way to have a database for past internships/jobs, and this could feed into the
 Professional page via php
 
