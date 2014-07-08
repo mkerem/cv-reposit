@@ -15,6 +15,7 @@ Figure out FORM GET, where is it being sent or is it server based
 -if no objective immediately clear, please state in textbox
 
 * need option to re-submit and delete
+-- Bootstrap will provide functionality to upload: http://wordpress.org/plugins/bootstrap-for-wordpress/
 * also provide ability to confirm submission (look over file to determine if this is what you would like)
 * set as private/public (you can choose to have your resume in, but no one can look at it unless they specifically
 email you to take a look)
