@@ -1,5 +1,8 @@
 Brainstorming in order to build over summer:
 
+1. Private area for resumes (for Rodney's project)
+2. Feed for jobs (add jobs here + will feed from LinkedIn)
+
 -Member log in page on site; accessible perhaps on the Contacts Page (separate page from currently existing Members Area?)
 --Could create an additional members log in, but might be clunky
 
