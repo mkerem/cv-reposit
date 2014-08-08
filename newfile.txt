@@ -1,3 +1,17 @@
+<script src="https://hrcdn.net/hackerrank/assets/typed-5a766db76b9725e4949f4ac0b3c02090.js" type="text/javascript"></script>
+<script>
+$(function(){
+	$("#typed").typed({
+		strings: ["array of", "different statements"],
+		typeSpeed: 30,
+		backDelay: 500,
+		loop: false,
+		// defaults to false for infinite loop
+		loopCount: false,
+	});
+});
+</script>
+
 Brainstorming in order to build over summer:
 
 1. Private area for resumes (for Rodney's project)
