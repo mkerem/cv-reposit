@@ -12,8 +12,7 @@ $(function(){
 });
 </script>
 
-Brainstorming in order to build over summer:
-
+// notes for this project
 1. Private area for resumes (for Rodney's project)
 2. Feed for jobs (add jobs here + will feed from LinkedIn)
 
